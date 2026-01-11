@@ -70,7 +70,7 @@ export function Sidebar() {
         <div className="pt-4">
           <div className="px-2 pb-1.5">
             <span className="text-[11px] font-medium text-text-muted uppercase tracking-wider">
-              Organize
+              Knowledge
             </span>
           </div>
 
